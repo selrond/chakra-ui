@@ -1,5 +1,18 @@
 # Change Log
 
+## 2.2.9
+
+### Patch Changes
+
+- [#7553](https://github.com/chakra-ui/chakra-ui/pull/7553)
+  [`5ff30252f`](https://github.com/chakra-ui/chakra-ui/commit/5ff30252f565f2e171375011a349fde53e6e4ec9)
+  Thanks [@AlphaNecron](https://github.com/AlphaNecron)! - Respect `crossOrigin`
+  property in `useImage`
+
+- Updated dependencies
+  [[`5ff30252f`](https://github.com/chakra-ui/chakra-ui/commit/5ff30252f565f2e171375011a349fde53e6e4ec9)]:
+  - @chakra-ui/image@2.0.16
+
 ## 2.2.8
 
 ### Patch Changes

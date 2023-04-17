@@ -1,5 +1,53 @@
 # Change Log
 
+## 2.5.6
+
+### Patch Changes
+
+- Updated dependencies
+  [[`c2f0d1bb2`](https://github.com/chakra-ui/chakra-ui/commit/c2f0d1bb2a07fe6af5e53a1f216d80c9a7d6df72),
+  [`5ff30252f`](https://github.com/chakra-ui/chakra-ui/commit/5ff30252f565f2e171375011a349fde53e6e4ec9)]:
+  - @chakra-ui/theme@3.0.2
+  - @chakra-ui/avatar@2.2.9
+  - @chakra-ui/image@2.0.16
+  - @chakra-ui/button@2.0.18
+  - @chakra-ui/media-query@3.2.12
+  - @chakra-ui/menu@2.1.12
+  - @chakra-ui/skeleton@2.0.24
+  - @chakra-ui/slider@2.0.23
+  - @chakra-ui/toast@6.1.2
+  - @chakra-ui/system@2.5.6
+  - @chakra-ui/theme-utils@2.0.16
+  - @chakra-ui/card@2.1.6
+  - @chakra-ui/tag@3.0.0
+  - @chakra-ui/table@2.0.17
+  - @chakra-ui/accordion@2.1.11
+  - @chakra-ui/alert@2.1.0
+  - @chakra-ui/breadcrumb@2.1.5
+  - @chakra-ui/checkbox@2.2.14
+  - @chakra-ui/close-button@2.0.17
+  - @chakra-ui/control-box@2.0.13
+  - @chakra-ui/editable@2.0.21
+  - @chakra-ui/form-control@2.0.18
+  - @chakra-ui/icon@3.0.16
+  - @chakra-ui/input@2.0.21
+  - @chakra-ui/layout@2.1.18
+  - @chakra-ui/modal@2.2.11
+  - @chakra-ui/number-input@2.0.19
+  - @chakra-ui/pin-input@2.0.20
+  - @chakra-ui/popover@2.1.9
+  - @chakra-ui/progress@2.1.6
+  - @chakra-ui/provider@2.2.3
+  - @chakra-ui/radio@2.0.22
+  - @chakra-ui/select@2.0.19
+  - @chakra-ui/spinner@2.0.13
+  - @chakra-ui/stat@2.0.18
+  - @chakra-ui/switch@2.0.26
+  - @chakra-ui/tabs@2.1.9
+  - @chakra-ui/textarea@2.0.19
+  - @chakra-ui/tooltip@2.2.7
+  - @chakra-ui/visually-hidden@2.0.15
+
 ## 2.5.5
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # Change Log
 
+## 3.0.2
+
+### Patch Changes
+
+- [`c2f0d1bb2`](https://github.com/chakra-ui/chakra-ui/commit/c2f0d1bb2a07fe6af5e53a1f216d80c9a7d6df72)
+  Thanks [@cschroeter](https://github.com/cschroeter)! - Update peer depency
+  requirements
+
 ## 3.0.1
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # Change Log
 
+## 2.5.6
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @chakra-ui/theme-utils@2.0.16
+
 ## 2.5.5
 
 ### Patch Changes
